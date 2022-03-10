@@ -1,3 +1,6 @@
+# Citation
+This dataset and software is related to a publication in a journal which is currently being under review. (we will be back asap)
+
 # Introduction
 This program runs on python3.8+. It is recommanded to use PyCharm.
 (it can easily be turned into older version by editing every `print(f"{variable=})"` call)
@@ -19,14 +22,15 @@ Optional:
 # Folder structure:
 	.
 	├── data
-	│   ├── imus
-	│   ├── maps
-	│   ├── participant.txt
-	│   └── README.MD
-	└── scripts
-	    ├── humolire
-	    ├── map_editor
-	    └── tests
+	├── docs
+	├── humolire
+	├── LICENSE.HTML
+	├── map_editor
+	├── README.md
+	├── requirements.txt
+	├── source
+	└── tests
+
 
 # Documentation:
 There are many README.MD files in the folders about.
