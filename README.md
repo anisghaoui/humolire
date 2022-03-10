@@ -28,7 +28,6 @@ Optional:
 	├── map_editor
 	├── README.md
 	├── requirements.txt
-	├── source
 	└── tests
 
 
