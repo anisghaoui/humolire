@@ -1,5 +1,6 @@
 # Introduction
-This program runs on python3.8+ (it can easily be turned into older version by  editing every 'print(f"{variable=})"' call). It is recommanded to use PyCharm.
+This program runs on python3.8+. It is recommanded to use PyCharm.
+(it can easily be turned into older version by editing every `print(f"{variable=})"` call)
 
 # Requirements
 requirements.txt lists:
