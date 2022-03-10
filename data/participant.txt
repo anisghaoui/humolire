@@ -1,0 +1,6 @@
+number	height	gender	age
+1	186	M	24
+2	189	M	52
+3	180	M	37
+4	167	M	34
+

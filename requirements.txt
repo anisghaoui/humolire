@@ -1,0 +1,10 @@
+numpy~=1.19.4
+matplotlib~=3.3.3
+scipy~=1.5.4
+AHRS~=0.3.0
+imageio~=2.9.0
+tqdm~=4.51.0
+opencv-python~=4.5.1.48
+
+adjustText~=0.7.3
+requests~=2.22.0
