@@ -40,4 +40,4 @@ There is a beginning of documentation at [read the docs](https://humolire.readth
 Thank you!
 
 # LICENSE
-(LICENSE.HTML)
+Humolire Dataset and Software by Anis GHAOUI is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
