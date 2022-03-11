@@ -24,7 +24,6 @@ Optional:
 	├── data
 	├── docs
 	├── humolire
-	├── LICENSE.HTML
 	├── map_editor
 	├── README.md
 	├── requirements.txt
