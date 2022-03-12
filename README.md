@@ -7,7 +7,7 @@ This program runs on python3.8+. It is recommanded to use PyCharm.
 
 # Requirements
 requirements.txt lists:
-* numpy~=1.19.4
+* numpy~=1.21
 * matplotlib~=3.3.3
 * scipy~=1.5.4
 * AHRS~=0.3.0
