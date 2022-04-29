@@ -1,3 +1,8 @@
+# HuMoLiRe
+![humolire](./figure.jpg?raw=true)
+
+# example of trajectory
+![trajectory](./trajectory.jpg?raw=true)
 # Citation
 This dataset and software is related to a publication in a journal which is currently being under review. (we will be back asap)
 
