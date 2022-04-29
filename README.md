@@ -36,7 +36,7 @@ The main entry point is main.py.
 There is a beginning of documentation at [read the docs](https://humolire.readthedocs.io/en/latest/). I don't have much time. If you want to help in documentation, I would be immensely grateful. 
 
 # Contribution:
-* If you have research a question, please reach me by email: [mohamed-anis.ghaoui@universite-paris-saclay.fr](mailto:mohamed-anis.ghaoui@universite-paris-saclay.fr)
+* If you have a research question, please reach me by email: [mohamed-anis.ghaoui@universite-paris-saclay.fr](mailto:mohamed-anis.ghaoui@universite-paris-saclay.fr)
 * If you have a question about the code, open an issue
 * If you wanna help documenting (I lack the time and skills to do that correctly), open an issue.
 Thank you!
