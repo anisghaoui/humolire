@@ -4,7 +4,19 @@
 # Example of trajectory
 ![trajectory](./trajectory.jpg?raw=true)
 # Citation
-This dataset and software is related to a publication in a journal which is currently being under review. (we will be back asap)
+This dataset and software are related to the following publication in the IEEE Sensors journal. Please cite using the following:
+```
+@ARTICLE{ghaouihumolire,
+author={Ghaoui, Mohamed Anis and Vincke, Bastien and Reynaud, Roger}, 
+journal={IEEE Sensors Journal},   
+title={Human Motion Likelihood Representation Map-Aided PDR Particle Filter},  
+year={2023},  
+volume={23},  
+number={1},  
+pages={484-494},  
+doi={10.1109/JSEN.2022.3222639}}
+```
+[IEEE page](https://ieeexplore.ieee.org/document/9957002)
 
 # Introduction
 This program runs on python3.8+. It is recommanded to use PyCharm.
@@ -23,8 +35,8 @@ requirements.txt lists:
 * opencv-python~=4.5.1.48
 
 Optional:
-* adjustText~=0.7.3
-* requests~=2.22.0
+* adjustText~=0.7.3 , is used to place the purple numbers automatically
+* requests~=2.22.0 , is used to send an SMS when the program is finished
 
 # Folder structure:
 	.
