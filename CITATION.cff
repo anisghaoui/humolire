@@ -5,6 +5,7 @@ authors:
     given-names: Mohamed Anis
     orcid: https://orcid.org/0000-0003-1942-4949 
 title: Human Motion Likelihood Representation Map-Aided PDR Particle Filter
+journal: IEEE Sensors Journal
 version: v1.0
 doi: 10.1109/JSEN.2022.3222639
 date-released: 2022-11-21
