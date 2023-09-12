@@ -1,4 +1,4 @@
-numpy~=1.21
+numpy~=1.23
 matplotlib~=3.3.3
 scipy~=1.5.4
 AHRS~=0.3.0
