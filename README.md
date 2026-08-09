@@ -1,3 +1,5 @@
+
+
 # HuMoLiRe
 ![humolire](./figure.jpg?raw=true)
 
@@ -20,7 +22,7 @@ doi={10.1109/JSEN.2022.3222639}}
 
 # Introduction
 This program runs on python3.8+. It is recommanded to use PyCharm.
-(it can easily be turned into older version by editing every `print(f"{variable=})"` call)
+(it can easily be turned into older version by editing every `print(f"{variable=}")` call)
 
 Entry point is `main.py`. `generate_figures.py` is used to recreate the figures mentionned in the article. 
 
